@@ -32,5 +32,5 @@ public abstract class NoteDataBase extends RoomDatabase {
  * noteDai s used to access Dao, room takes care of code
  *
  * getInstance()
- * *synchronized -> only one thread can accecces at the time so no accidental instance of DB in diferent threads
+ * *synchronized -> only one thread can accecces at the time so no accidental instance of DB in different threads
  */
